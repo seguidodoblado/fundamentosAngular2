@@ -1,5 +1,5 @@
 {
-  "buildOnSave": false,
+  "buildOnSave": true,
   "compileOnSave": true,
   "compilerOptions": {
     /* Basic Options */
