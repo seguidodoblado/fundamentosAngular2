@@ -2,6 +2,8 @@
 
 Repositorio de práctica del curso de **Angular 2** (Udemy) con ejemplos introductorios en **TypeScript**.
 
+> Nota: este repositorio se conserva como material histórico. La recomendación sobre su evolución está documentada en [docs/recomendacion-evolucion.md](docs/recomendacion-evolucion.md).
+
 ## 📚 Objetivo
 Este proyecto reúne ejercicios básicos para entender:
 - configuración inicial con TypeScript,
