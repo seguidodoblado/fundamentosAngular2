@@ -30,7 +30,7 @@ El material está pensado como apoyo para:
 │       ├── error1.ts
 │       ├── index.html
 │       └── tsconfig.json
-├── LICENSE
+├── COPYING
 └── README.md
 ```
 
@@ -105,4 +105,4 @@ Para información oficial y actualizada, consulta siempre la [documentación de 
 
 ## Licencia
 
-Consulta el archivo [LICENSE](LICENSE) para más información.
+Consulta el archivo [COPYING](COPYING) para más información.
