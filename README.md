@@ -1,6 +1,4 @@
-# Fundamentos de Angular 2
-
-🇪🇸 Español · [🇬🇧 English](#fundamentals-of-angular-2)
+# Fundamentos de Angular 2 (Español)
 
 Material de estudio en español basado en los conceptos fundamentales del curso de **Angular 2**.
 
@@ -111,9 +109,7 @@ Consulta el archivo [COPYING](COPYING) para más información.
 
 ---
 
-# Fundamentals of Angular 2
-
-[🇪🇸 Español](#fundamentos-de-angular-2) · 🇬🇧 English
+# Fundamentals of Angular 2 (English)
 
 Study material, written in Spanish, based on the core concepts of the **Angular 2** course.
 
