@@ -1,4 +1,6 @@
-# Fundamentos de Angular 2 (Español)
+# Fundamentos de Angular 2
+
+## 🇪🇸 Español
 
 Material de estudio en español basado en los conceptos fundamentales del curso de **Angular 2**.
 
@@ -6,7 +8,7 @@ Este repositorio recopila apuntes, ejemplos y prácticas guiadas para aprender A
 
 ---
 
-## Objetivo
+### Objetivo
 
 El objetivo de este proyecto es ofrecer una guía de estudio clara y organizada para repasar los fundamentos necesarios para comenzar con Angular 2, incluyendo TypeScript, ECMAScript 6, declaración de variables, configuración del compilador, tipos de datos, funciones, interfaces, módulos y decoradores.
 
@@ -19,7 +21,7 @@ El material está pensado como apoyo para:
 
 ---
 
-## Estructura del repositorio
+### Estructura del repositorio
 
 ```text
 .
@@ -34,23 +36,23 @@ El material está pensado como apoyo para:
 └── README.md
 ```
 
-### Gentil introducción a TypeScript y ES6
+#### Gentil introducción a TypeScript y ES6
 
 Contiene el primer bloque de contenidos del curso, centrado en los conceptos base de TypeScript y ECMAScript 6 necesarios para adentrarse posteriormente en Angular 2.
 
-### Código de ejemplo
+#### Código de ejemplo
 
 Contiene archivos de práctica para experimentar con TypeScript, JavaScript, configuración mediante `tsconfig.json` y ejecución de ejemplos en navegador.
 
 ---
 
-## Contenido disponible
+### Contenido disponible
 
-### 01. Gentil introducción a TypeScript y ES6
+#### 01. Gentil introducción a TypeScript y ES6
 
 - [Objetivos](01.%20Gentil%20introducci%C3%B3n%20a%20TypeScript%20y%20ES6/00.%20Objetivos.md)
 
-#### Código
+##### Código
 
 - [Ejemplo TypeScript](01.%20Gentil%20introducci%C3%B3n%20a%20TypeScript%20y%20ES6/code/error1.ts)
 - [JavaScript generado o de apoyo](01.%20Gentil%20introducci%C3%B3n%20a%20TypeScript%20y%20ES6/code/error1.js)
@@ -59,7 +61,7 @@ Contiene archivos de práctica para experimentar con TypeScript, JavaScript, con
 
 ---
 
-## Estado del contenido
+### Estado del contenido
 
 El repositorio está en fase inicial. Actualmente incluye la primera sección del curso y ejemplos básicos de código para trabajar con TypeScript y ES6.
 
@@ -73,7 +75,7 @@ El repositorio está en fase inicial. Actualmente incluye la primera sección de
 
 ---
 
-## Cómo usar este material
+### Cómo usar este material
 
 Se recomienda seguir los contenidos en orden:
 
@@ -85,7 +87,7 @@ Se recomienda seguir los contenidos en orden:
 
 ---
 
-## Próximos pasos
+### Próximos pasos
 
 - Añadir nuevos módulos del curso de Angular 2.
 - Completar los apuntes de TypeScript y ECMAScript 6.
@@ -95,7 +97,7 @@ Se recomienda seguir los contenidos en orden:
 
 ---
 
-## Aviso
+### Aviso
 
 Este repositorio es material de estudio independiente y no oficial. Angular y los nombres relacionados son marcas comerciales de sus respectivos propietarios.
 
@@ -103,13 +105,13 @@ Para información oficial y actualizada, consulta siempre la [documentación de 
 
 ---
 
-## Licencia
+### Licencia
 
 Consulta el archivo [COPYING](COPYING) para más información.
 
 ---
 
-# Fundamentals of Angular 2 (English)
+## 🇬🇧 English
 
 Study material, written in Spanish, based on the core concepts of the **Angular 2** course.
 
@@ -117,7 +119,7 @@ This repository collects notes, examples and guided exercises to learn Angular 2
 
 ---
 
-## Goal
+### Goal
 
 The goal of this project is to offer a clear, well-organized study guide covering the fundamentals needed to get started with Angular 2, including TypeScript, ECMAScript 6, variable declaration, compiler configuration, data types, functions, interfaces, modules and decorators.
 
@@ -130,7 +132,7 @@ The material is intended as support for:
 
 ---
 
-## Repository structure
+### Repository structure
 
 ```text
 .
@@ -145,23 +147,23 @@ The material is intended as support for:
 └── README.md
 ```
 
-### Gentle introduction to TypeScript and ES6
+#### Gentle introduction to TypeScript and ES6
 
 Contains the first block of the course, focused on the basic concepts of TypeScript and ECMAScript 6 needed before moving on to Angular 2.
 
-### Example code
+#### Example code
 
 Contains practice files to experiment with TypeScript, JavaScript, configuration through `tsconfig.json` and running examples in the browser.
 
 ---
 
-## Available content
+### Available content
 
-### 01. Gentle introduction to TypeScript and ES6
+#### 01. Gentle introduction to TypeScript and ES6
 
 - [Objectives](01.%20Gentil%20introducci%C3%B3n%20a%20TypeScript%20y%20ES6/00.%20Objetivos.md) (in Spanish)
 
-#### Code
+##### Code
 
 - [TypeScript example](01.%20Gentil%20introducci%C3%B3n%20a%20TypeScript%20y%20ES6/code/error1.ts)
 - [Generated or supporting JavaScript](01.%20Gentil%20introducci%C3%B3n%20a%20TypeScript%20y%20ES6/code/error1.js)
@@ -170,7 +172,7 @@ Contains practice files to experiment with TypeScript, JavaScript, configuration
 
 ---
 
-## Content status
+### Content status
 
 The repository is at an early stage. It currently includes the first section of the course and basic code examples for working with TypeScript and ES6.
 
@@ -184,7 +186,7 @@ The repository is at an early stage. It currently includes the first section of 
 
 ---
 
-## How to use this material
+### How to use this material
 
 It is recommended to follow the contents in order:
 
@@ -196,7 +198,7 @@ It is recommended to follow the contents in order:
 
 ---
 
-## Next steps
+### Next steps
 
 - Add new modules of the Angular 2 course.
 - Complete the TypeScript and ECMAScript 6 notes.
@@ -206,7 +208,7 @@ It is recommended to follow the contents in order:
 
 ---
 
-## Disclaimer
+### Disclaimer
 
 This repository is independent, unofficial study material. Angular and related names are trademarks of their respective owners.
 
@@ -214,6 +216,6 @@ For official and up-to-date information, always refer to the [Angular documentat
 
 ---
 
-## License
+### License
 
 See the [COPYING](COPYING) file for more information.
